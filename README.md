@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LMS Platform 
+The Code Editor App is a powerful, intuitive, and lightweight development environment designed for developers, students, and hobbyists. Whether you're coding for web development, data analysis, or scripting, this app offers a seamless experience with robust features for writing, editing, and testing code. Its user-friendly interface caters to beginners while providing advanced tools for experienced coders.
 
-## Getting Started
+## Tech Stack  
+- **Frontend:** Next.js, Tailwind CSS, React.js   
+- **Backend:** Convex
+- **Database:** Convex  
+- **Authentication:** Clerk
+- **Payment:** Lemon Squeezy
 
-First, run the development server:
+## Features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Multi-Language Support: Write and edit code in multiple programming languages such as JavaScript, Python, HTML/CSS, Java, C++, and more.
+- Syntax Highlighting: Color-coded syntax to make your code more readable and error detection faster.
+- Built-In Terminal: Integrated terminal for running commands, testing scripts, or deploying applications.
+- Code Formatting: One-click formatting to maintain clean and organized code structure.
+- Real-Time Collaboration: Share code and work together with others in real-time.
+- Customizable Themes: Choose from a variety of dark and light themes to suit your preferences.
+- 
+## For Users
+- Developers: A productive workspace to write, debug, and deploy code efficiently.
+- Students: An easy-to-use platform for learning programming languages and completing assignments.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Home
+![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/student-dashboard.jpg)
 
-## Learn More
+## Share Snippets
+![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/student-learning.jpg)
 
-To learn more about Next.js, take a look at the following resources:
+## Snippet Detail
+![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/teacher-dashboard.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Profile
+![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/teacher-analytic.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Pricing
+![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/teacher-create-course.jpg)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
