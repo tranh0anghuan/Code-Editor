@@ -1,4 +1,4 @@
-# LMS Platform 
+# Code Editor Platform 
 The Code Editor App is a powerful, intuitive, and lightweight development environment designed for developers, students, and hobbyists. Whether you're coding for web development, data analysis, or scripting, this app offers a seamless experience with robust features for writing, editing, and testing code. Its user-friendly interface caters to beginners while providing advanced tools for experienced coders.
 
 ## Tech Stack  
@@ -24,17 +24,17 @@ The Code Editor App is a powerful, intuitive, and lightweight development enviro
 
 
 ## Home
-![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/student-dashboard.jpg)
+![Code Editor Platform](https://github.com/tranh0anghuan/Code-Editor/blob/main/public/home.jpg)
 
 ## Share Snippets
-![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/student-learning.jpg)
+![Code Editor Platform](https://github.com/tranh0anghuan/Code-Editor/blob/main/public/share-snippets.jpg)
 
 ## Snippet Detail
-![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/teacher-dashboard.jpg)
+![Code Editor Platform](https://github.com/tranh0anghuan/Code-Editor/blob/main/public/snippet-detail.jpg)
 
 ## Profile
-![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/teacher-analytic.jpg)
+![Code Editor Platform](https://github.com/tranh0anghuan/Code-Editor/blob/main/public/profile.jpg)
 
 ## Pricing
-![LMS Platform](https://github.com/tranh0anghuan/LMS-Platform-Clone/blob/main/public/images/teacher-create-course.jpg)
+![Code Editor Platform](https://github.com/tranh0anghuan/Code-Editor/blob/main/public/pricing.jpg)
 
